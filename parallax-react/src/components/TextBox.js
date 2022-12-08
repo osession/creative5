@@ -3,7 +3,8 @@ import React from 'react'
 const TextBox = () => {
     return (
         <div className='text-box'>
-            <h3>#lighttheworld</h3>
+            <h3>Click the link below</h3>
+            <a href="https://github.com/osession/creative5">Olivia's github link</a>
             <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore 
             magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo 
